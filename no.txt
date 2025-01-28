@@ -1,1 +1,1 @@
-Archivo no.txt editado para generar un conflicto
+Propongo estos cambios para el repo de satcucdani
