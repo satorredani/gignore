@@ -1,1 +1,1 @@
-Este archivo NO esta en el git ignore
+Archivo no.txt editado para generar un conflicto
